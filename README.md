@@ -3,7 +3,7 @@ This is a background changer application built using React, Tailwind CSS, JavaSc
 
 Click here to try: https://bg-changer-reactjs.netlify.app/
 
-## Video Output
+## Video
 
 https://github.com/rohitraj232/react-bgChanger/assets/57895889/1f8320ca-675a-4700-884c-56acbef5dd25
 
